@@ -25,7 +25,7 @@ body {
 
 #centered-content {
     max-width: calc(100vw - 2 * var(--min-padding));
-    width: 100%;
+    width: 60vw;
     background: var(--background-secondary);
     box-shadow: var(--box-shadow);
     padding: 20px;
@@ -33,7 +33,6 @@ body {
     font-size: 16px;
     line-height: 1.6;
     box-sizing: border-box;
-    width: fit-content;
     margin: auto;
 }
 
