@@ -5,10 +5,10 @@ const Header: React.FC = () => {
   return (
     <>
       <h1>
-        <a href="./">Clazh Break / 机房摸鱼之盾</a>
+        <a href="./">Clazh Break</a>
       </h1>
       <hr />
-      资源收录/纠错联系：<a href="mailto:gxxk@duck.com">gxxk@duck.com (点我发送)</a> <br/>
+      资源收录/纠错联系：<a href="mailto:gxxk@duck.com">gxxk@duck.com</a> <br/>
       网盘主页面：<a href="https://ouyhq.lanzouv.com/b0w84ycpg">https://ouyhq.lanzouv.com/b0w84ycpg</a> 提取码：gxxk<br/>
       点击名称可以访问此项目官网 冒号后的内容一般为 网盘分流下载页面/对应资源<br />
       <TipDisplay />

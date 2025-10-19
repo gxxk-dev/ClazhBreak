@@ -24,7 +24,7 @@ export const TIPS: string[] = [
   'Tip:  WACCA SO LONG.',
   'Hint: 如网盘链接失效 一般是提供商(lanzou)的域名的问题 修改lanzou[x].com中的x为任意可用字母即可',
   'Hint: 此处内容每三秒刷新一次.',
-  'Tip:  那个天天在编辑器面前摆弄html/js 写那个机房摸什么盾的死宅肯定觉得自己老nb了',
+  'Tip:  那个天天在编辑器面前摆弄html/js 写那个什么 c1ass br3ak 的死宅肯定觉得自己老nb了',
   'Hint: 为避免下次更换域名所造成的不变 您可以定期向<a href="mailto:gxxk@duck.com">gxxk@duck.com</a>发送邮件询问最新地址',
 ];
 
